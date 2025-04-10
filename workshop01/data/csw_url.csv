@@ -1,0 +1,12 @@
+﻿id;ente/tag;CSW url;geoportale UI;Open Data;Open Data format
+1;Regione Piemonte;https://www.geoportale.piemonte.it/geonetwork/srv/ita/csw?request=GetCapabilities&service=CSW&version=2.0.2;https://www.geoportale.piemonte.it/geonetwork/srv/ita/catalog.search;;
+2;Regione Lombardia;https://www.geoportale.regione.lombardia.it/geoportal/csw?Request=GetCapabilities&Service=CSW&Version=2.0.2;https://www.geoportale.regione.lombardia.it/ricerca;https://www.dati.lombardia.it/browse;SOCRATA
+3;Regione Veneto;https://idt2.regione.veneto.it/geoportal/csw?request=GetCapabilities&service=CSW;https://idt2.regione.veneto.it/idt/search/searchPage;;
+4;Regione Sicilia;https://www.sitr.regione.sicilia.it/geoportale/csw?Request=GetCapabilities&Service=CSW&Version=2.0.2&language=ita;https://www.sitr.regione.sicilia.it/geoportale;;
+5;Regione Toscana;;https://www.regione.toscana.it/-/geoscopio;;
+6;Regione Emilia-Romagna;https://servizimoka.regione.emilia-romagna.it/geoportalEsri/csw?Request=GetCapabilities&Service=CSW&Version=2.0.2;https://geoportale.regione.emilia-romagna.it/;https://dati.emilia-romagna.it/dataset;CKAN
+7;Regione Lazio;;https://geoportale.regione.lazio.it/search/;;
+8;MASE;http://www.pcn.minambiente.it/geoportal/csw?Request=GetCapabilities&Service=CSW&Version=2.0.2;https://gn.mase.gov.it/portale/ricerca-dettagliata;;
+9;RDNT;https://geodati.gov.it/RNDT/csw?request=GetCapabilities&service=CSW&acceptFormats=application%2Fxml&LANGUAGE=ita;https://geodati.gov.it/geoportale/;https://www.dati.gov.it/;CKAN
+10;Inspire;https://inspire-geoportal.ec.europa.eu/srv/ita/csw?SERVICE=CSW&VERSION=2.0.2&REQUEST=GetCapabilities;https://inspire-geoportal.ec.europa.eu/srv/ita/catalog.search;;
+11;Copernicus;;https://land.copernicus.eu/en/dataset-catalog;;
