@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "comuni",
+"features": [
+{ "type": "Feature", "properties": { "id": "1", "belfiore": "B149", "cod_istat": "017028", "denominazione": "Breno", "latitudine": 45.9587, "longitudine": 10.3058 }, "geometry": { "type": "Point", "coordinates": [ 10.3058, 45.9587 ] } },
+{ "type": "Feature", "properties": { "id": "2", "belfiore": "C760", "cod_istat": "017055", "denominazione": "Cividate Camuno", "latitudine": 45.9434, "longitudine": 10.2785 }, "geometry": { "type": "Point", "coordinates": [ 10.2785, 45.9434 ] } },
+{ "type": "Feature", "properties": { "id": "3", "belfiore": "D434", "cod_istat": "017070", "denominazione": "Esine", "latitudine": 45.9266, "longitudine": 10.2519 }, "geometry": { "type": "Point", "coordinates": [ 10.2519, 45.9266 ] } }
+]
+}

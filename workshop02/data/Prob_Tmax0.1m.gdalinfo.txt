@@ -1,0 +1,13 @@
+Driver: AAIGrid/Arc/Info ASCII Grid
+Files: /vsizip/CollectionProbability_and_HazardMapsforSVLahars.tar.gz.zip/Prob_Tmax0.1m.asc
+Size is 811, 1011
+Origin = (439845.000000000000000,4541791.000000000000000)
+Pixel Size = (50.000000000000000,-50.000000000000000)
+Corner Coordinates:
+Upper Left  (  439845.000, 4541791.000) 
+Lower Left  (  439845.000, 4491241.000) 
+Upper Right (  480395.000, 4541791.000) 
+Lower Right (  480395.000, 4491241.000) 
+Center      (  460120.000, 4516516.000) 
+Band 1 Block=811x1 Type=Float32, ColorInterp=Undefined
+  NoData Value=-999
