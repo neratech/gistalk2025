@@ -39,5 +39,8 @@ For information on writing PyQGIS code, see __http://loc8.cc/pyqgis_resources__ 
 
 ©2011-2019 GeoApt LLC - geoapt.com 
 
-
+```
 ln -s ~/lab/qgis/plugins/gis_day ~/.local/share/QGIS/QGIS3/profiles/default/python/plugins/gis_day
+
+mklink /D "<link>" "<target>"
+```
